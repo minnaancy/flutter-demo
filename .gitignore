@@ -1,0 +1,6 @@
+.git/
+.idea
+android/
+build/
+ios/
+test/
